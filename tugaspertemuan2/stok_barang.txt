@@ -1,0 +1,10 @@
+BRG001,Roti,20
+BRG002,AirMineral,15
+BRG003,TehBotol,10
+BRGJMK,Sepatu,1
+BRG006,buah,2
+BRG0010,sayur,2
+BGR48,femboy,1111
+JMK33,sayur,33
+BBBBB,adalah,2
+BBB23,elektroik,2
